@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.etellez.paintit"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="17" />
+
+    <application
+        android:label="@string/app_name"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:theme="@android:style/Theme.Holo.Light">
+
+        <activity android:name="net.etellez.paintit.Paint"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

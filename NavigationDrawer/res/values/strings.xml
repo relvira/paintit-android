@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Paintit!</string>
+    <string-array name="menu_array">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+    </string-array>
+
+    <!-- A light Holo shade of blue -->
+    <string name="holo_blue_light">#ff33b5e5</string>
+    <!-- A light Holo shade of gray -->
+    <string name="holo_gray_light">#33999999</string>
+    <!-- A light Holo shade of green -->
+    <string name="holo_green_light">#ff99cc00</string>
+    <!-- A light Holo shade of red -->
+    <string name="holo_red_light">#ffff4444</string>
+    <!-- A dark Holo shade of blue -->
+    <string name="holo_blue_dark">#ff0099cc</string>
+    <!-- A dark Holo shade of green -->
+    <string name="holo_green_dark">#ff669900</string>
+    <!-- A dark Holo shade of red -->
+    <string name="holo_red_dark">#ffcc0000</string>
+    <!-- A Holo shade of purple -->
+    <string name="holo_purple">#ffaa66cc</string>
+    <!-- A light Holo shade of orange -->
+    <string name="holo_orange_light">#ffffbb33</string>
+    <!-- A dark Holo shade of orange -->
+    <string name="holo_orange_dark">#ffff8800</string>
+    <!-- A really bright Holo shade of blue -->
+    <string name="holo_blue_bright">#ff00ddff</string>
+    <!-- A really bright Holo shade of gray -->
+    <string name="holo_gray_bright">#33CCCCCC</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+</resources>
